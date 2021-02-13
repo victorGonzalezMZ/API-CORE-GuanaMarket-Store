@@ -1,0 +1,1 @@
+# API-CORE-GuanaMarket-Store
