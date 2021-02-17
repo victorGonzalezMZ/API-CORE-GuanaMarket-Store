@@ -7,6 +7,6 @@ services:
     image: apimtwdm101
     build:
       context: .
-      dockerfile: ./Dockerfile
+      dockerfile: API-MTWDM101/Dockerfile
     ports:
       - 80
